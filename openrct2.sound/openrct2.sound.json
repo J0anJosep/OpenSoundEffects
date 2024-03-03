@@ -47,7 +47,8 @@
             "en-GB": "OpenRCT2 Sound FX"
         },
         "description": {
-            "en-GB": "Open source sound effects for OpenRCT2."
+            "en-GB": "Open source sound effects for OpenRCT2.",
+            "ca-ES": "Efectes de so de codi obert per a l’OpenRCT2"
         }
     }
 }
